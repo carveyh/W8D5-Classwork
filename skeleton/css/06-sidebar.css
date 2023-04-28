@@ -1,0 +1,11 @@
+/* PHASE 0: Sidebar */
+
+.content-sidebar {
+	/* position: relative; */
+}
+
+.profile-picture {
+	position: absolute;
+	width: inherit;
+	top: -20px;
+}
